@@ -26,7 +26,7 @@ Interactive portfolio dashboard on **[Tableau Public](https://public.tableau.com
 regional disbursement rates, an early-warning scatter (effectiveness lag vs disbursement gap),
 an undisbursed-balance treemap by country, and slow-loan counts by approval vintage.
 
-![Dashboard preview](reports/dashboard.png)
+![Dashboard preview](dashboard.png)
 
 ## Data
 **IBRD Statement of Loans — Latest Snapshot** (World Bank Group Finances), resource `sfv5-tf7p`
